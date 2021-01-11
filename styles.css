@@ -1,0 +1,50 @@
+img {
+    height: 200px;
+
+}
+
+.top{
+    border: solid black 6px;
+    padding: 25px;
+    Margin: 5px;
+    background-color: black;
+
+}
+
+.border {
+    color: white;
+    border: outset gray;
+}
+
+.music {
+    color: gray;
+}
+
+.bk {
+    background-color: black;
+}
+
+.centered {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    border-radius: 25px;
+    border: solid blue;
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    height: 8px;
+
+}
+
+.date {
+    color: grey;
+}
+
+.tweet {
+    color: white;
+    border: outset gray;
+
+}
